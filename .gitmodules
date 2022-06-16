@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "apcluster"]
+	path = apcluster
+	url = https://github.com/ubod/apcluster
+	shallow = true
+	registered = true
+[submodule "rococo"]
+	path = rococo
+	url = https://github.com/ubod/rococo
+	shallow = true
+	registered = true
+[submodule "kebabs"]
+	path = kebabs
+	url = https://github.com/ubod/kebabs
+	shallow = true
+	registered = true
+[submodule "podkat"]
+	path = podkat
+	url = https://github.com/ubod/podkat
+	shallow = true
+	registered = true
+[submodule "procoil"]
+	path = procoil
+	url = https://github.com/ubod/procoil
+	shallow = true
+	registered = true

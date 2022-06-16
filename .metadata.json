@@ -1,0 +1,19 @@
+[
+  {
+    "package": "apcluster",
+    "oncran": true
+  },
+  {
+    "package": "rococo",
+    "oncran": true
+  },
+  {
+    "package": "kebabs"
+  },
+  {
+    "package": "podkat"
+  },
+  {
+    "package": "procoil"
+  }
+]
