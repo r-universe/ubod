@@ -8,6 +8,12 @@
     "oncran": true
   },
   {
+    "package": "kebabs"
+  },
+  {
+    "package": "podkat"
+  },
+  {
     "package": "procoil"
   }
 ]
