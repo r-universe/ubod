@@ -13,6 +13,11 @@
 	url = https://github.com/ubod/rococo
 	shallow = true
 	registered = true
+[submodule "procoil"]
+	path = procoil
+	url = https://github.com/ubod/procoil
+	shallow = true
+	registered = true
 [submodule "kebabs"]
 	path = kebabs
 	url = https://github.com/ubod/kebabs
@@ -21,10 +26,5 @@
 [submodule "podkat"]
 	path = podkat
 	url = https://github.com/ubod/podkat
-	shallow = true
-	registered = true
-[submodule "procoil"]
-	path = procoil
-	url = https://github.com/ubod/procoil
 	shallow = true
 	registered = true
