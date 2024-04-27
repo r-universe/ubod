@@ -8,6 +8,9 @@
 [submodule "kebabs"]
 	path = kebabs
 	url = https://github.com/ubod/kebabs
+[submodule "msa"]
+	path = msa
+	url = https://github.com/ubod/msa
 [submodule "podkat"]
 	path = podkat
 	url = https://github.com/ubod/podkat
