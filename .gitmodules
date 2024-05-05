@@ -5,18 +5,6 @@
 [submodule "apcluster"]
 	path = apcluster
 	url = https://github.com/ubod/apcluster
-[submodule "kebabs"]
-	path = kebabs
-	url = https://github.com/ubod/kebabs
-[submodule "msa"]
-	path = msa
-	url = https://github.com/ubod/msa
-[submodule "podkat"]
-	path = podkat
-	url = https://github.com/ubod/podkat
-[submodule "procoil"]
-	path = procoil
-	url = https://github.com/ubod/procoil
 [submodule "rococo"]
 	path = rococo
 	url = https://github.com/ubod/rococo
